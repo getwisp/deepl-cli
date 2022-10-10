@@ -32,6 +32,7 @@ class DeepLCLI:
         "fi",
         "fr",
         "hu",
+        "id",
         "it",
         "ja",
         "lt",
@@ -44,6 +45,7 @@ class DeepLCLI:
         "sk",
         "sl",
         "sv",
+        "ua",
         "zh",
     }
     to_langs = fr_langs - {"auto"}
